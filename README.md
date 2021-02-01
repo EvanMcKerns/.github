@@ -1,2 +1,2 @@
 # .github
-Hosting default files for upfoundation
+Hosting default files for uqfoundation
